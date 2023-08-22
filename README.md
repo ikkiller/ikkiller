@@ -7,10 +7,16 @@ My 5+ years of expertise include;
 - Designing/implementing cloud native CI/CD solutions.
 - Automating repetitive operational task using custom python scripts.
 - Migrating on-premises infrastructure to the cloud for fintech’s and software houses.
-I’ve worked with companies new and old, so let's get in touch and start designing your cloud, on-premises or even a hybrid IT infrastructure solution.
+
+I’ve worked with companies new and old, so let's get in touch and start designing your 
+* cloud,
+* on-premises or
+* even a hybrid IT infrastructure solution.
 
 📫 You can reach me through
 - Email: i.khan@kcloudreviews.com
+
+Please provide as much details as possible when contacting.
 
 <!---
 ikkiller/ikkiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
