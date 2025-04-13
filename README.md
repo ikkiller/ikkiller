@@ -103,17 +103,6 @@ Designed and implemented hybrid cloud solution maintaining compliance requiremen
 - Site Reliability Engineering Certification 
 -->
 
-
-### Latest Blog Posts
-
-- Implementing Zero-Trust Security in Cloud Native Applications
-A deep dive into modern security practices for cloud applications
-January 2025
-
-- Optimizing Kubernetes for Financial Services
-Best practices for running Kubernetes in high-stakes environments
-December 2024
-
 ### <center> Let's Work Together </center>
 
 I've worked with companies new and old, so let's get in touch if you would like to work together on designing your cloud, on-premises or even a hybrid IT infrastructure.
